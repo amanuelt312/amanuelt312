@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! 👋
+## Hi there! 👋
 
 Welcome to my GitHub profile! I'm Amanuel Tesfaye, a passionate web developer specializing in React, Node.js, MongoDB, and WordPress. 🚀
 I've had the privilege of working on diverse projects, including developing a website for a tour and travel agency, building an online examination system and more.
@@ -30,12 +30,6 @@ I've had the privilege of working on diverse projects, including developing a we
 - **CMS:** WordPress
 
 
-
-## Get in Touch 📫
-
-- **Email:** (mailto:amanuelt312@gmail.com)
-- **LinkedIn:** (https://www.linkedin.com/in/amanuelt312/)
-- **Telegram:** (https://t.me/amanuelt312)
 
 ## Let's Connect! 🤝
 Let's connect and create something amazing together!
