@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **amanuelt312/amanuelt312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there! 👋
+
+Welcome to my GitHub profile! I'm Amanuel Tesfaye, a passionate web developer specializing in React, Node.js, MongoDB, and WordPress. 🚀
+I've had the privilege of working on diverse projects, including developing a website for a tour and travel agency, building an online examination system and more.
+
+🔭 I’m currently working on a project that make learning easy with ai.
+
+## Skills & Expertise 💻
+
+- **Languages:** JavaScript,php
+- **Frameworks & Libraries:** React.js, Node.js
+- **Databases:** MongoDB,firebase
+- **CMS:** WordPress
+
+
+
+## Get in Touch 📫
+
+- **Email:** (mailto:amanuelt312@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/amanuelt312/)
+- **Telegram:** (https://t.me/amanuelt312)
+
+## Let's Connect! 🤝
+Let's connect and create something amazing together!
+
