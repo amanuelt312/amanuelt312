@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hi there! 👋
 
 Welcome to my GitHub profile! I'm Amanuel Tesfaye, a passionate web developer specializing in React, Node.js, MongoDB, and WordPress. 🚀
-I've had the privilege of working on diverse projects, including developing a website for a tour and travel agency, building an online examination system and more.
+I've had the privilege of working on diverse projects, including developing a website for a tour and travel agency,Research Managment System for Arbaminch Universty, building an online examination system and i am currently working on a website that makes learing easy with AI.
 
 🔭 I’m currently working on a project that make learning easy with ai.
 
